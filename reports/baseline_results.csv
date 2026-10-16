@@ -1,0 +1,9 @@
+model,feature_type,accuracy,precision,recall,f1,roc_auc
+Logistic Regression,network,0.7047,0.9231,0.5224,0.6672,0.8812
+Logistic Regression,audio,0.6653,0.9047,0.4576,0.6078,0.6298
+Random Forest,network,0.7793,0.971,0.6294,0.7637,0.954
+Random Forest,audio,0.764,0.9662,0.6047,0.7438,0.8699
+XGBoost,network,0.7873,0.9699,0.6447,0.7746,0.915
+XGBoost,audio,0.7687,0.9666,0.6129,0.7502,0.8688
+SVM,network,0.7453,0.9415,0.5871,0.7232,0.9059
+SVM,audio,0.72,0.8143,0.6553,0.7262,0.723

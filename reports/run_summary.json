@@ -1,0 +1,11 @@
+{
+  "sample_size_train": 1500,
+  "sample_size_test": 1500,
+  "n_network_features": 38,
+  "n_audio_features": 352,
+  "device": "cuda",
+  "gpu_name": "NVIDIA GeForce RTX 4050 Laptop GPU",
+  "runtime_seconds": 866.1,
+  "baseline_top_f1_network": 0.7746,
+  "baseline_top_f1_audio": 0.7502
+}

@@ -1,0 +1,11 @@
+model,accuracy,precision,recall,f1,roc_auc,time,feature_type
+Logistic Regression,0.732,0.9318,0.5734,0.71,0.9027,0.0247,Network Features
+Random Forest,0.775,0.9753,0.6224,0.7599,0.9593,0.329,Network Features
+XGBoost,0.818,0.9756,0.6993,0.8147,0.9112,0.2627,Network Features
+LightGBM,0.781,0.9732,0.6346,0.7683,0.9459,2.0571,Network Features
+SVM,0.753,0.9683,0.5874,0.7312,0.9098,0.1557,Network Features
+Logistic Regression,0.666,0.919,0.4563,0.6098,0.6448,0.599,Audio Features
+Random Forest,0.744,0.9788,0.5647,0.7162,0.8777,0.389,Audio Features
+XGBoost,0.737,0.9612,0.5629,0.71,0.8653,0.8058,Audio Features
+LightGBM,0.75,0.9708,0.5804,0.7265,0.8784,0.9488,Audio Features
+SVM,0.721,0.8164,0.6608,0.7304,0.7227,0.9019,Audio Features
